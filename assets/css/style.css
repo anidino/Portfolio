@@ -17,7 +17,7 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: #679e9b;
-  background-color: #111522;
+  background-color: #192c61;
   line-height: 1.5;
 }
 
@@ -41,7 +41,7 @@ header {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-color: #111522;
+  background-color: #192c61;
   box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
 }
 
@@ -93,7 +93,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/blueF.jpg"),
+  background-image: url("../images/abstractColor.jpg"),
     linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
