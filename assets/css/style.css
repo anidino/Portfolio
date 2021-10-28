@@ -14,8 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   color: #679e9b;
   background-color: #192c61;
   line-height: 1.5;
@@ -65,11 +64,7 @@ nav a {
   padding: 5px 10px;
   color: #679e9b;
   margin-right: 10px;
-  background-image: linear-gradient(
-    270deg,
-    var(--secondary) 0%,
-    var(--secondary) 100%
-  );
+  background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -94,8 +89,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/abstractColor.jpg"),
-    linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/abstractColor.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -156,8 +150,7 @@ main {
 } */
 
 .page-section h4 {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .flex-container {
@@ -217,11 +210,7 @@ main {
   text-decoration: none;
   font-size: 1.3rem;
   font-style: normal;
-  background-image: linear-gradient(
-    270deg,
-    var(--secondary) 0%,
-    var(--secondary) 100%
-  );
+  background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -241,19 +230,19 @@ main {
 }
 
 .led-wall {
-  background-image: url("../images/FindFresh.png");
+  background-image: url("../images/movieBoxDeployed.jpg");
 }
 
 .react-calc {
-  background-image: url("../images/workDay.jpg");
+  background-image: url("../images/FindFresh.png");
 }
 
 .pastel-puzzles {
-  background-image: url("../images/betterHoriseon1.jpg");
+  background-image: url("../images/workDay.jpg");
 }
 
 .surf-report {
-  background-image: url("../images/movieBoxDeployed.jpg");
+  background-image: url("../images/presentShot.png");
 }
 
 /* end portfolio project images */
